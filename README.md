@@ -2,6 +2,12 @@
 
 This project is a Hyperbolic Discord bot that interacts with users to provide various functionalities, including model selection and Hyperbolic API integration. The bot is built using the Discord.js library and is designed to handle commands and events efficiently.
 
+## 📚 Features
+- **Multi-Model Support**:
+  - 📝 Text Generation (4 models)
+  - 🖼️ Image Generation (2 models)
+  - 🔊 Audio Synthesis (1 model)
+ 
 ## Project Structure
 
 ```
@@ -32,18 +38,18 @@ Hyperbolic-Discord-Bot
 - npm (v6 or higher)
 - A Discord account
 - A Discord bot token
-- API keys for the models you intend to use
+- Hyperbolic API keys for the models you intend to use
 
 ### Step-by-Step Guide
 
 1. **Clone the repository:**
-   ```sh
-   git clone <repository-url>
+   ```bash
+   git clone https://github.com/zunxbt/hyperbolic-bot.git
    cd Hyperbolic-Discord-Bot
    ```
 
 2. **Install dependencies:**
-   ```
+   ```bash
    npm install
    ```
 
@@ -71,7 +77,7 @@ Hyperbolic-Discord-Bot
    ```
 
 6. **Run the bot:**
-   ```
+   ```bash
    node src/bot.js
    ```
 
