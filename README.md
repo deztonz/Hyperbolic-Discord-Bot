@@ -82,7 +82,11 @@ discord-bot
   - `!help` - Get a list of available commands and their usage.
 
 ## Example 
-
+![Bot Example](img/01.png)
+![Bot Example](img/02.png)
+![Bot Example](img/03.png)
+![Bot Example](img/04.png)
+![Bot Example](img/05.png)
 
 ## Contributing
 
