@@ -88,10 +88,15 @@ Hyperbolic-Discord-Bot
   - `!help` - Get a list of available commands and their usage.
 
 ## Example 
+1.
 ![Bot Example](img/01.png)
+2.
 ![Bot Example](img/02.png)
+3.
 ![Bot Example](img/03.png)
+4.
 ![Bot Example](img/04.png)
+5.
 ![Bot Example](img/05.png)
 
 ## Contributing
