@@ -5,7 +5,7 @@ This project is a Hyperbolic Discord bot that interacts with users to provide va
 ## Project Structure
 
 ```
-discord-bot
+Hyperbolic-Discord-Bot
 ├── src
 │   ├── bot.js                # Entry point for the Discord bot
 │   ├── commands              # Command handlers for the bot
@@ -39,7 +39,7 @@ discord-bot
 1. **Clone the repository:**
    ```sh
    git clone <repository-url>
-   cd discord-bot
+   cd Hyperbolic-Discord-Bot
    ```
 
 2. **Install dependencies:**
